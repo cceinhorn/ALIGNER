@@ -1,2 +1,2 @@
 # ALIGNER
-Code for GAHR
+Code for ALIGNER
