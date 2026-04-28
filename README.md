@@ -1,2 +1,2 @@
 # ALIGNER
-Code for ALIGNER
+Code for ALIGNER model
