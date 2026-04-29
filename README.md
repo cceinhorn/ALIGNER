@@ -12,3 +12,5 @@ Text-Based Person Retrieval (TBPR) aims to retrieve pedestrian images based on n
   <img src="https://github.com/cceinhorn/ALIGNER/blob/main/figure/ALIGNER.png" width="900">
 </p>
 
+We provide pretrained weights for reproducibility and further research. Click [here](https://pan.quark.cn/s/7d3184b2a7ae)
+
